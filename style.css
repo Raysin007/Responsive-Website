@@ -47,6 +47,19 @@
     font-family: "Poppins", sans-serif;
 
 }
+.cart-num {
+    color: rgb(0, 0, 0);
+    border: 1px solid white;
+    background-color: rgb(255, 253, 253);
+    border-radius: 80px ;
+    padding: 4px;
+    position: relative;
+    left: -80px;
+    top: -28px;
+}
+.cart-num a{
+    font-family: "Poppins", sans-serif;
+}
 
 select {
     font-family: "Poppins", sans-serif;
@@ -578,7 +591,7 @@ footer h2 {
     display: none;
 }
 
-@media (max-width: 876px) {
+@media (max-width: 913px) {
 
     .links,
     .icons {
