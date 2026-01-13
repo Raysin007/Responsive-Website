@@ -44,4 +44,8 @@ minusButtons.forEach((btn, index) => {
         updateCartTotal();
     }
   });
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 37229ab623b15edf8e1125cb66e787f12a55241d
